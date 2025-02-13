@@ -1,0 +1,19 @@
+# Backend node_modules (for the root project)
+node_modules/
+
+# Frontend node_modules (inside the 'client' folder)
+client/node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files (Optional, depending on your editor)
+.vscode/
+.idea/
